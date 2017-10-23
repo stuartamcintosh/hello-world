@@ -11,5 +11,5 @@ Bioinformatics.
 ## Some markdown practice...
 
 > Now I'm trying out some of my new markdown skills
-_this should be in italics_
+_this should be in italics_<
 **this should be bold**
